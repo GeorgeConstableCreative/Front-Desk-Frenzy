@@ -2,7 +2,7 @@
 
 A Christmas browser game made for Lisa and Mitra at the Belmont Village front desk, with love from Mag, Tony, Samantha and George.
 
-**Play:** https://georgeconstablecreative.github.io/front-desk-frenzy/
+**Play:** https://georgeconstablecreative.github.io/Front-Desk-Frenzy/
 
 Designed for iPhone: open the link in Safari, then Share → **Add to Home Screen** to keep it like an app.
 
